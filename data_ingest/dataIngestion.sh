@@ -1,0 +1,1 @@
+hdfs dfs -put DOHMH_New_York_City_Restaurant_Inspection_Results_20240401.csv
